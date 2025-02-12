@@ -1,6 +1,10 @@
 .heading{
     background-color:red;
 }
-.img-contain{
-    background-image: url("ai-generated-8750166_1280.jpg");
+.img-contain {
+    background-image: url('ai-generated-8750166_1280.jpg');
+    height: 500px; 
+    width: 100%;   
+    background-size: cover; 
+    background-position: center; 
 }
